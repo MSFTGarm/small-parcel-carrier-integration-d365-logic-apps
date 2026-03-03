@@ -32,8 +32,8 @@ A successful carrier integration requires alignment across business, functional,
 
 ## Architecture
 The following diagram illustrates the architecture for the solution. 
-(Insert diagram image here)
-Download a PowerPoint file with this architecture. 
+[Diagram image here](https://github.com/MSFTGarm/small-parcel-carrier-integration-d365-logic-apps/blob/main/d365-small-parcel-carrier-integration-reference-architecture.png)
+[Download a PowerPoint file with this architecture.](https://github.com/MSFTGarm/small-parcel-carrier-integration-d365-logic-apps/blob/main/d365-small-parcel-carrier-integration-reference-architecture.pptx) 
 
 ## Dataflow
 1.	User creates a shipment and triggers an action (for example, packing completed).
